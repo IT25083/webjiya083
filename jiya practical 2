@@ -1,0 +1,20 @@
+<html>
+<body>
+<header>
+<h2>SBJIT Nagpure/h2>
+</header> 
+<section>
+<article>
+<h2>Understanding HTML5</h2>
+<p>HTMLS introduced semantic elements to improve structure.</p>
+</article>
+<article>
+<h2>why Use Semaittic Tags?</h2>
+<p>They improve accessibility and SEO.</p>
+</article>
+</section›
+<footer>
+<p>web Desinging Practical 1</p>
+</footer>
+</body>
+</html>
